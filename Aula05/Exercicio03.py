@@ -1,5 +1,13 @@
-letra=(input("Insira a letra:"))
-if (letra == "a") or (letra=="e") or (letra=="i") or (letra=="o") or (letra=="u"):
-    print("Sua letra é uma vogal.")
+l1=float(input("Insira o valor do primeiro lado:"))
+l2=float(input("Insira o valor do segundo lado:"))
+l3=float(input("Insira o valor do terceiro lado:"))
+
+if ((l1+l2)<l3) or ((l2+l3)<l1) or ((l3+l1)<l2):
+    print("Não é um triangulo.")
 else:
-    print("Sua letra é uma consoante.")
+    if (l1 == l2) and (l2 == l3):
+        print("Triangulo Equilátero")
+    elif (l1 == l2) or (l2 == l3) or (l1 == l3):
+        print("Triangulo Isósceles")
+    else:
+        print("Triangulo Escaleno")

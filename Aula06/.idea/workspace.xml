@@ -5,23 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b721b33f-1890-4e2d-ae07-d45320775011" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Aula04/.idea/Aula05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Aula05/.idea/Aula06.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula05/.idea/Aula05.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula05/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula05/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula05/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula05/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula05/Denovo não meu deus.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula05/Exemplo01.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula05/Exemplo02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula05/Exercicio01.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula05/Exercicio01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula05/Exercicio02.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula05/Exercicio02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula05/Exercicio03.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula05/Exercicio03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula05/Exercicio04.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicio01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio02.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicio03.py" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prova/.idea/Prova.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Prova/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula07/.idea/aula07.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula08/.idea/Aula08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula08/.idea/Aula08.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula08/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula08/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +27,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 2
+}]]></component>
   <component name="ProjectId" id="2eCRMipV6XtUmxWXWI89WZd22bC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,9 +41,16 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Alunos/Desktop/ALP/Aula05"
+    "last_opened_file_path": "C:/Users/Alunos/Desktop/ALP/aula06"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

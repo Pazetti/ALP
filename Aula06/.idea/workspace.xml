@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b721b33f-1890-4e2d-ae07-d45320775011" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Prova/.idea/Prova.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Prova/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../aula07/.idea/aula07.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula08/.idea/Aula08.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula08/.idea/Aula08.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Aula08/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula08/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Aula16/texto.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula09" beforeDir="false" afterPath="$PROJECT_DIR$/../Aula09" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +23,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2eCRMipV6XtUmxWXWI89WZd22bC" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -41,7 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/Alunos/Desktop/ALP/aula06"
+    "last_opened_file_path": "C:/Users/Alunos/Desktop/ALP/aula07"
   }
 }]]></component>
   <component name="SharedIndexes">
